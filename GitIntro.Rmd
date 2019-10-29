@@ -1,0 +1,18 @@
+---
+title: "GitIntro"
+author: "Andrew Polk"
+date: "10/29/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Intro to Git
+
+```{r}
+3 + 4
+45/3
+```
+
